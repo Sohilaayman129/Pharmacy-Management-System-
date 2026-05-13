@@ -75,18 +75,3 @@ The issue was solved by:
 - Troubleshooting & Configuration
 - UI color and font selection
 
-
-## Project Screens
-
-## splash
-![alt text](image-5.png)
-## login
-![alt text](image.png)
-## Agents
-![alt text](image-1.png)
-## Medicine Management
-![alt text](image-2.png)
-## Selling System
-![alt text](image-3.png)
-## testing login
-![alt text](image-4.png)
