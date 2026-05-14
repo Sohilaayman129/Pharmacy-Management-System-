@@ -75,3 +75,18 @@ The issue was solved by:
 - Troubleshooting & Configuration
 - UI color and font selection
 
+
+## Project Screens
+
+## splash
+![alt text](<Screenshot 2026-05-13 175826.png>)
+## login
+![alt text](<Screenshot 2026-05-13 165848.png>)
+## Agents
+![alt text](<Screenshot 2026-05-13 170101.png>)
+## Medicine Management
+![alt text](<Screenshot 2026-05-13 170518.png>)
+## Selling System
+![alt text](<Screenshot 2026-05-13 170543.png>)
+## testing login
+![alt text](<Screenshot 2026-05-13 170922.png>)
